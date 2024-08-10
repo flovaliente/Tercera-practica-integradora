@@ -1,0 +1,21 @@
+info: Este es el usuario desde logger: 
+info: Aca los productos:  {"docs":[{"__v":0,"_id":"66ae8cb21a9af5663b18e6e5","category":"cat9","code":"009","createdAt":"2024-08-03T20:01:54.510Z","description":"Descripcion producto 9","id":"66ae8cb21a9af5663b18e6e5","price":124,"status":"true","stock":60,"thumbnails":[],"title":"Producto 9","updatedAt":"2024-08-03T20:01:54.510Z"},{"__v":0,"_id":"66ae8df71a9af5663b18e6ec","category":"cat 9","code":"012","createdAt":"2024-08-03T20:07:19.382Z","description":"Nuevo","id":"66ae8df71a9af5663b18e6ec","price":452,"status":"true","stock":14,"thumbnails":[],"title":"Producto nuevo","updatedAt":"2024-08-03T20:07:19.382Z"},{"__v":0,"_id":"663a98dc44bcb5f2bc045bbb","category":"Camisa","code":"002","createdAt":"2024-05-07T21:10:52.213Z","description":"Camisa manga ancha con puño","id":"663a98dc44bcb5f2bc045bbb","price":1550,"status":"true","stock":50,"thumbnails":["img5.jpg"],"title":"Camisa Mango","updatedAt":"2024-05-07T21:10:52.213Z"},{"__v":0,"_id":"66367a5ef2687d62e1b48131","category":"Campera","code":"001","createdAt":"2024-05-04T18:11:42.512Z","description":"Campera de jean","id":"66367a5ef2687d62e1b48131","price":2500,"status":"true","stock":25,"thumbnails":["img10.jpg"],"title":"Campera Nala","updatedAt":"2024-07-27T00:24:18.558Z"},{"__v":0,"_id":"6647c0308245614d8eb15f9e","category":"Pantalon","code":"005","createdAt":"2024-05-17T20:38:08.726Z","description":"Pantalon de jean blanco ancho","id":"6647c0308245614d8eb15f9e","price":3200,"status":"true","stock":30,"thumbnails":["img4.jpg"],"title":"Pantalon Hanna","updatedAt":"2024-05-17T20:38:08.726Z"},{"__v":0,"_id":"66479cdff717102e0f271d69","category":"Pantalon","code":"003","createdAt":"2024-05-17T18:07:27.511Z","description":"Pantalon de jean ancho","id":"66479cdff717102e0f271d69","price":3500,"status":"true","stock":21,"thumbnails":["img12.jpg"],"title":"Pantalon Mango","updatedAt":"2024-05-17T18:07:27.511Z"},{"__v":0,"_id":"6647bf7b8245614d8eb15f9a","category":"Bota","code":"004","createdAt":"2024-05-17T20:35:07.080Z","description":"Bota de tela y plataforma","id":"6647bf7b8245614d8eb15f9a","price":8500,"status":"true","stock":10,"thumbnails":["img9.jpg"],"title":"Bota Denver","updatedAt":"2024-05-17T20:35:07.080Z"}],"hasNextPage":false,"hasPrevPage":false,"limit":10,"nextPage":null,"page":1,"pagingCounter":1,"prevPage":null,"totalDocs":7,"totalPages":1}
+fatal: Logger test fatal message
+error: Logger test error message
+warning: Logger test warning message
+info: Logger test info message
+fatal: Logger test fatal message
+error: Logger test error message
+warning: Logger test warning message
+info: Logger test info message
+error: data and hash arguments required
+error: data and hash arguments required
+error: data and hash arguments required
+error: data and hash arguments required
+error: data and hash arguments required
+error: data and hash arguments required
+error: data and hash arguments required
+error: data and hash arguments required
+error: data and hash arguments required
+error: data and hash arguments required
+error: data and hash arguments required
